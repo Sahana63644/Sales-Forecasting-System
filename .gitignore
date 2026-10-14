@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Large datasets
+data/train.csv
+data/test.csv
+data/*.csv
+
+# Secrets
+.env
